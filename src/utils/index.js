@@ -1,7 +1,3 @@
-import hero from "/assets/images/hero.jpeg";
-
-export const heroImg = hero;
-
 
 import hmv from "/assets/videos/hero.mp4";
 import smallmv from "/assets/videos/smallHero.mp4";
@@ -29,7 +25,6 @@ import explore1 from "/assets/images/explore1.jpg";
 import explore2 from "/assets/images/explore2.jpg";
 import chip from "/assets/images/chip.jpeg";
 import frame from "/assets/images/frame.png";
-
 export const heroVideo = hmv;
 export const smallHeroVideo = smallmv;
 export const highlightFirstVideo = highlightFirstmv;
