@@ -1,8 +1,9 @@
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
-import { heroVideo, smallHeroVideo } from "../utils";
+import {  smallHeroVideo } from "../utils";
 import { useState } from "react";
 import { useEffect } from "react";
+import heroVideo from "/assets/videos/hero.mp4"
 
 const Hero = () => {
   const [video, setVideo] = useState(
