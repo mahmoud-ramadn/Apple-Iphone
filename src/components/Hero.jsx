@@ -63,7 +63,7 @@ const Hero = () => {
         id="cta"
       >
         <a href="#highlights" className="btn">
-          Buy
+          Mervat Ramadn
         </a>
         <p className="font-normal text-xl">From $199/month or $999</p>
       </div>
