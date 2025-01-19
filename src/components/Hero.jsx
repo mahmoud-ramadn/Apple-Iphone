@@ -3,7 +3,7 @@ import { useGSAP } from "@gsap/react";
 import {  smallHeroVideo } from "../utils";
 import { useState } from "react";
 import { useEffect } from "react";
-import heroVideo from "/assets/videos/hero.mp4"
+import { heroVideo } from "../utils";
 
 const Hero = () => {
   const [video, setVideo] = useState(

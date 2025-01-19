@@ -5,7 +5,7 @@ import highlightThirdmv from "/assets/videos/hightlight-sec.mp4";
 import highlightFourthmv from "/assets/videos/hightlight-fourth.mp4";
 import exploremv from "/assets/videos/explore.mp4";
 import framemv from "/assets/videos/frame.mp4";
-import heroVideo from  "assets/videos/hero.mp4"
+import heroVideomv from  "/assets/videos/hero.mp4"
 
 import apple from "/assets/images/apple.svg";
 import search from "/assets/images/search.svg";
