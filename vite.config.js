@@ -5,7 +5,10 @@ export default defineConfig({
   plugins: [react()],
   resolve: {
     alias: {
-      "@": "/src",
+      "@": "/src", // Adjust based on your project structure
     },
+  },
+  build: {
+    outDir: "dist",
   },
 });
