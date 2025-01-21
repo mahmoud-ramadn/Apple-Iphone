@@ -25,7 +25,7 @@ import chip from "/assets/images/chip.jpeg";
 import frame from "/assets/images/frame.png";
 
 export const heroVideo = heroVideomv;
-export const smallHeroVideo = smallHeroVideo;
+export const smallHeroVideo = smallHeroVideomv;
 export const highlightFirstVideo = highlightFirstmv;
 export const highlightSecondVideo = highlightSectmv;
 export const highlightThirdVideo = highlightThirdmv;
