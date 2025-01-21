@@ -1,8 +1,7 @@
 import gsap from "gsap";
 import { debounce } from "lodash";
-import { smallHeroVideo, heroVideo } from "../utils";
 import { useState, useEffect } from "react";
-
+import { heroVideo,smallHeroVideo } from "../utils";
 const Hero = () => {
   const [video, setVideo] = useState("");
 
@@ -58,7 +57,7 @@ const Hero = () => {
         id="cta"
       >
         <a href="#highlights" className="btn">
-          Mervat Ramadn
+          Buy
         </a>
         <p className="font-normal text-xl">From $199/month or $999</p>
       </div>
